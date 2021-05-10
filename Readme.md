@@ -5,7 +5,7 @@ Especially the quality of delivery.
 
 Most of the time the technical detaisl are handled by my team, but I want to learn how it works.
 
-Interestign topics:
+Interesting topics:
 - GIT and how to automate to a production enviroment
 - Runners in the productions
 - developement with Docker
